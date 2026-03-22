@@ -2,7 +2,7 @@
 
 ## 📝 Functionality
 
-Basically, all this mod does is forces the **camping** field trip on every pit stop.
+Basically, all this mod does is forces a field trip on every pit stop.
 
 ## 📜 License
 
