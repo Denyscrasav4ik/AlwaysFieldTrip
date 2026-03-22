@@ -2,7 +2,7 @@
 
 ## 📝 Functionality
 
-Basically, all this mod does is forces a field trip on every pit stop.
+Basically, all this mod does is force a Field Trip on every Pit Stop.
 
 ## 📜 License
 
