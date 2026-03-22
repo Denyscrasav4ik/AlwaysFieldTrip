@@ -22,7 +22,6 @@ public class CoreGameManagerPatch
     }
 }
 
-// Patch 2: Fix the Generator Crash
 [HarmonyPatch(typeof(PitstopGameManager), "PrepareLevelData")]
 public class PitstopGeneratorPatch
 {
